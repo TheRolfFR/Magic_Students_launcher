@@ -35,3 +35,20 @@ Natives are complementary libs needed to run on certains platform
 1. Click the **EXTRA (WINDOWS.EXE )** button
 1. Click the **Create Windows EXE file** button
 1. Choose your location in the file dialog with your desired name *(this one matters)* and hit the **Save** Button
+
+# ADD AN ICON INSTRUCTIONS
+
+**!!! Download and install Resource Haker here : http://angusj.com/resourcehacker/#download !!!**
+
+Open ResourceHacker.exe
+
+## Add an Image Resource
+1. Click the Open item in the File menu or press **CTRL + O**
+1. Select the desired exe in the file dialog and hit the submit button
+3. Click the "flow icon" button in the toolbar, a dialog window will open
+4. Click the **Select File ...** button
+5. Select the desired Icon file
+6. Resource Hacker will detect automatically that it is the icon and fill the other fields for you
+7. Just click the **Add Resource** button to add the resource
+8. Eventually click the "floppy disk" button to save your file
+9. Select your location and hit the submit button
