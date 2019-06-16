@@ -1,0 +1,37 @@
+# BUILD  INSTRUCTIONS
+
+**!!! DOWNLOAD, INSTALL jarsplice here : http://ninjacave.com/jarsplice#Download !!!**
+
+Double-click to launch the jarsplice executable jar.
+
+## First step : add the jar
+
+1. Click the **1) ADD JARS** button
+1. Click the Add Jar(s) button
+1. Select the built jar with Intellij IDEA and hit the **Add** Button
+
+## Second step : add the natives
+
+Natives are complementary libs needed to run on certains platform
+
+1. Click the **2) ADD NATIVES** button
+1. Click the Add Natives(s) button
+1. Select the natives for the wanted platform *(can be found in lib/lwjgl-2.9.3/native folder of the [Magic Students](https://github.com/TheRolfFR/Magic_Students) root location)* and hit the **Add** Button
+
+## Third step : Enter main class
+
+1. Click the **3) MAIN CLASS** button
+1. Enter the Magic Students main class location in the field : **Main.MainClass**
+
+## Fourth step : generate the jar
+
+1. Click the **4) MAIN CLASS** button
+1. Click the **Create Fat Jar** button
+1. Choose your location in the file dialog with your desired name *(it doesn't matter)* and hit the **Save** Button
+1. Wait and you should see A success dialog appearing
+
+## Fifth step : generate the exe *(or else depending the desired platform)*
+
+1. Click the **EXTRA (WINDOWS.EXE )** button
+1. Click the **Create Windows EXE file** button
+1. Choose your location in the file dialog with your desired name *(this one matters)* and hit the **Save** Button
