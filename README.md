@@ -1,9 +1,10 @@
 #Downloads
+
 Windows executable : [Magic_Students.exe](Magic_Students.exe)
 
 Windows excutable JAR : [Magic_Students_win.jar](windows/Magic_Students_win.jar)
 
-Linux executbale JAR : [Magic_Students Linux.jar](linux/Magic_Students Linux.jar)
+Linux executbale JAR : [Magic_Students Linux.jar](linux/Magic_Students_Linux.jar)
 # Build instructions
 
 **!!! DOWNLOAD, INSTALL jarsplice here : http://ninjacave.com/jarsplice#Download !!!**
