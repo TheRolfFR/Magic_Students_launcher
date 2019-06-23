@@ -1,4 +1,4 @@
-#Downloads
+# Downloads
 
 Windows executable : [Magic_Students.exe](Magic_Students.exe)
 
