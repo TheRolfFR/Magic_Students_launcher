@@ -1,10 +1,17 @@
+#The project
+
+The whole project is available here : [Magic Students](https://github.com/TheRolfFR/Magic_Students)
+
 # Downloads
 
-Windows executable : [Magic_Students.exe](Magic_Students.exe)
+Windows/Linux/MacOS executable JAR : [Magic_Students_win.jar](final/Magic_Students.jar)
 
-Windows excutable JAR : [Magic_Students_win.jar](windows/Magic_Students_win.jar)
+Windows executable : [Magic_Students.exe](windows/Magic_Students.exe)
 
-Linux executbale JAR : [Magic_Students Linux.jar](linux/Magic_Students_Linux.jar)
+Mac App bundle : [Magic_Students.zip](mac/Magic_Students.zip)
+
+Linux shell : [Magic_Students.sh](linux/Magic_Students.sh)
+
 # Build instructions
 
 **!!! DOWNLOAD, INSTALL jarsplice here : http://ninjacave.com/jarsplice#Download !!!**
